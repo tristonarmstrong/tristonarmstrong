@@ -1,13 +1,17 @@
-<h1 align="center">YO It's me</h1>
-<h3 align="center">I do things with code proffessionally</h3>
-<p align="center">alot of my shit is hidden behind private orgs</p>
+<div>
+  <h1 align="center">YO It's me</h1>
+  <h3 align="center">I do things with code proffessionally</h3>
+  <p align="center">alot of my shit is hidden behind private orgs</p>
+</div>
 
 <br/>
 
-<div align="center"> 
+<div> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"/>
     <img src="https://github-profile-trophy.vercel.app/?username=Tarmstrong95&theme=onedark&margin-w=15&margin-h=15&column=7" alt="Tarmstrong95" />
 </div>
+
+<br/>
 
 <div align="center">
     <img align="center" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Tarmstrong95&count_private=true&include_all_commits=true&theme=onedark" alt="Tarmstrong95" />
