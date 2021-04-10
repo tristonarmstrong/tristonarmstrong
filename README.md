@@ -20,7 +20,7 @@
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmstrong95&layout=compact&theme=onedark&langs_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmstrong95&layout=compact&theme=onedark&langs_count=10" />
 </div>
 
 <br/>
