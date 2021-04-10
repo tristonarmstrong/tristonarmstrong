@@ -1,6 +1,6 @@
 <div>
   <h1>YO It's me</h1>
-  <h3>I do things with code proffessionally</h3>
+  <h3>I do things with code professionally</h3>
   <p>alot of my shit is hidden behind private orgs</p>
 </div>
 
