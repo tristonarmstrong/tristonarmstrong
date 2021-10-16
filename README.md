@@ -1,7 +1,6 @@
 <div>
-  <h1>YO It's me</h1>
+  <h1>Hey It's Triston</h1>
   <h3>I do things with code professionally</h3>
-  <p>Alot of my shit is hidden behind private orgs</p>
   <p>My most used language is Python</p>
 </div>
 
