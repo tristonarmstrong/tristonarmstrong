@@ -50,5 +50,5 @@ hi, i'm [Triston Armstrong](https://tristonarmstrong.com), a passionate full sta
 </p>
 
 
-
+<p>Most of my contributions are hidden behind private organizations</p>
 
