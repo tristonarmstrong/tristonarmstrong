@@ -1,39 +1,67 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> ![](https://komarev.com/ghpvc/?username=Tarmstrong95&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Top Section -->
+<div align='center'>
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGExMDY0MWZlYWFkYzk2NGE5NDdkMTQ5ZmNlMGY5ODM1NzBlM2M0YiZjdD1z/cUAGuLiEcTBwRfkAQq/giphy.gif" width="200"/>
+  </div>
+  <a href="https://www.linkedin.com/in/triston95strong/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/triston_armstr">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tarmstrong95&style=flat-square&color=blue" alt=""/>  
+  </p>
+</div>
+      
+<!-- Hello introductions -->
+<h1 align="center" >
+  <img src="https://media.giphy.com/media/8JQOSC9rq8StxyzKz6/giphy.gif" width="50"/>
+  Triston Armstrong
+  <img src="https://media.giphy.com/media/OBKHu9AQwgCVq/giphy.gif" width="100"/>
+</h1>
 
-<br/>
+<!-- Post introduction Banner -->
+<p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"  /></p>
 
-hi, i'm [Triston Armstrong](https://tristonarmstrong.com), a passionate full stack Software Developer and a freelance Software Developer from the USA. I take great care in the experience, architecture, and code quality of the things I build.
+<!-- About section -->
+## 🧑🏻‍💻 About Me :
+I am a Full Stack Developer from The States.
 
-  
-- 💼 any freelance work? do reach out, [email](mailto:triston95strong@gmail.com)
-- 💬 ask me about anything, i am happy to help
+- 🔭 I’m working as a Software Engineer and contributing to the frontend and backend for building web applications.
+- ⚡ In my free time, I enjoy game development and building DIY battery packs for my custom solar project.
+- 🥽 I work in VR just about every single day; I couldn't imagine life without it now 😅
 
-#### languages and tools 
+---
 
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<!-- Skills section -->
+## 🛠 Languages and Tools :
 
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" />
+</p>
 
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+---
 
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<!-- Github stats section -->
+## My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarmstrong95&theme=transparent)
 
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmstrong95&layout=compact&theme=transparent)
 
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+---
 
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</code>
-
-<br/>
-
-#### NPM Packages Released
-
-| Name | Link | Repository |
-| :----------- | :-----------: | :------------: |
-| Component Test Helper | [NPM Link](https://www.npmjs.com/package/component-test-helper) | [Repo](https://github.com/Tarmstrong95/component-test-helper#readme) |
-| Web Window Manager | [NPM Link](https://www.npmjs.com/package/web-window-manager) | [Repo](https://github.com/Tarmstrong95/WebWindowManager#readme) |
-
-#### Note
-  Most of my contributions are hidden behind private organizations
+<!-- Released Stuff -->
+## 📦 NPM Packages : 
+- [component-test-helper](https://www.npmjs.com/package/component-test-helper)
+- [web-window-manager](https://www.npmjs.com/package/web-window-manager)
