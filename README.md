@@ -1,67 +1,73 @@
-<!-- Top Section -->
-<div align='center'>
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGExMDY0MWZlYWFkYzk2NGE5NDdkMTQ5ZmNlMGY5ODM1NzBlM2M0YiZjdD1z/cUAGuLiEcTBwRfkAQq/giphy.gif" width="200"/>
-  </div>
-  <a href="https://www.linkedin.com/in/triston95strong/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+![Fallout Banner](https://repository-images.githubusercontent.com/557898281/13553ca7-9def-4565-bee8-961d2d94379b)
+
+<h1 align="center">🌍 Welcome to the Wasteland, Wanderer! I'm Triston Armstrong</h1>
+
+<p align="center">
+  <a href="https://tristonarmstrong.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-tristonarmstrong.com-blue?style=for-the-badge">
   </a>
-  <a href="https://twitter.com/triston_armstr">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto=triston95strong@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Holotape%20Me-red?style=for-the-badge">
   </a>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Tarmstrong95&style=flat-square&color=blue" alt=""/>  
-  </p>
-</div>
-      
-<!-- Hello introductions -->
-<h1 align="center" >
-  <img src="https://media.giphy.com/media/8JQOSC9rq8StxyzKz6/giphy.gif" width="50"/>
-  Triston Armstrong
-  <img src="https://media.giphy.com/media/OBKHu9AQwgCVq/giphy.gif" width="100"/>
-</h1>
-
-<!-- Post introduction Banner -->
-<p align="center"><img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"  /></p>
-
-<!-- About section -->
-## 🧑🏻‍💻 About Me :
-I am a Full Stack Developer from The States.
-
-- 🔭 I’m working as a Software Engineer and contributing to the frontend and backend for building web applications.
-- ⚡ In my free time, I enjoy game development and building DIY battery packs for my custom solar project.
-- 🥽 I work in VR just about every single day; I couldn't imagine life without it now 😅
-
----
-
-<!-- Skills section -->
-## 🛠 Languages and Tools :
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" />
+  <a href="https://linkedin.com/in/triston95strong" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connecting%20with%20Armstrong-blue?style=for-the-badge">
+  </a>
 </p>
 
+<p align="center">
+  🌆 Vault-Tec Certified Programmer and Wasteland Explorer 🌆
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tristonarmstrong&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<h2 align="center">🛠️ Pip-Boy Toolkit 🛠️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Code-Rust-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tools-React-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Editor-NeoVim-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tristonarmstrong&theme=dark" alt="GitHub Streak">
+</p>
+
+<h2 align="center">📜 My Wasteland Chronicles 📜</h2>
+
+### A Journey through the Glowing Sea
+
+In my quest to uncover the mysteries of the wasteland, I ventured into the infamous Glowing Sea. Armed with only my trusty Geiger counter and a gas mask, I roamed through the irradiated wasteland, encountering mutated creatures and the remnants of civilization. The experience taught me survival skills that I apply to my coding adventures.
+
+### Brotherhood of Code
+
+Much like the "Brotherhood of Steel," I'm a proud member of the "Brotherhood of Code." We hoard knowledge and technology, preserving the ancient art of programming. Together, we march through the digital wasteland, ensuring the code remains secure and the bugs are vanquished.
+
+### Nuka-Cola and Code
+
+Just as Nuka-Cola fuels the residents of the wasteland, caffeine fuels my coding sessions. With a Nuka-Cola in one hand and a keyboard in the other, I tackle the most complex challenges, emerging victorious against the odds.
+
+### Ghouls and the Search for Immortality
+
+Ghouls have always fascinated me. The concept of immortality through ghoulification raises questions about the nature of life and death. As I delve deeper into programming, I seek to unravel the secrets of eternal life through lines of code.
+
+### Crashed Aliens and Extraterrestrial Code
+
+The crashed alien ship in the Capital Wasteland hints at the existence of advanced alien technology. Exploring their code is like deciphering an extraterrestrial language. I aim to uncover the secrets hidden within, transcending the boundaries of Earth's technology.
+
+### Helios One: A Beacon of Knowledge
+
+Helios One, a pre-war solar power facility, holds untapped potential. Much like its solar arrays, my coding skills harness the power of the sun. I see Helios One as a symbol of our quest for knowledge and a brighter future.
+
 ---
 
-<!-- Github stats section -->
-## My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tarmstrong95&theme=transparent)
+🎵 Soundtrack of the Wasteland: [The Wasteland's Aria](https://youtu.be/HS6rW19GfBE)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarmstrong95&layout=compact&theme=transparent)
+⚔️ Current Quest: [Project C.A.S.T.L.E.](#)
 
----
+🕒 Current Level: 42
 
-<!-- Released Stuff -->
-## 📦 NPM Packages : 
-- [component-test-helper](https://www.npmjs.com/package/component-test-helper)
-- [web-window-manager](https://www.npmjs.com/package/web-window-manager)
+![Vault Boy](#)
