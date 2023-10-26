@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="auto" src="https://repository-images.githubusercontent.com/557898281/13553ca7-9def-4565-bee8-961d2d94379b" alt="GitHub Stats">
+  <img width="200" height="auto" src="https://raw.githubusercontent.com/tristonarmstrong/tristonarmstrong/90193dd0331889b0c1be89b2e6256fac699ad3f5/Volt%20Boy%20Image%20copy.png" alt="GitHub Stats">
 </p>
 
 <h1 align="center">🌍 Welcome to the Wasteland, Wanderer! I'm Triston Armstrong</h1>
@@ -40,6 +40,11 @@
 
 <h2 align="center">📜 My Wasteland Chronicles 📜</h2>
 
+<p align="center">
+<img width="100" height="auto"  src="https://github.com/tristonarmstrong/tristonarmstrong/blob/b2a45611db9e4d9478f4bf36998e8647242a3abf/goul.gif" alt="goul">
+<img width="100" height="auto"  src="https://github.com/tristonarmstrong/tristonarmstrong/blob/c1b5b38845f4269e0272a55576f354a52f6f68ea/Vault%20Boy.gif" alt="goul">
+</p>
+
 ### 🚀 A Journey through the Glowing Sea 🚀
 
 In my quest to uncover the mysteries of the wasteland, I ventured into the infamous Glowing Sea. Armed with only my trusty Geiger counter and a gas mask, I roamed through the irradiated wasteland, encountering mutated creatures and the remnants of civilization. The experience taught me survival skills that I apply to my coding adventures. 🌄🌡️🦠
@@ -52,7 +57,7 @@ Much like the "Brotherhood of Steel," I'm a proud member of the "Brotherhood of 
 
 Just as Nuka-Cola fuels the residents of the wasteland, caffeine fuels my coding sessions. With a Nuka-Cola in one hand and a keyboard in the other, I tackle the most complex challenges, emerging victorious against the odds. 🚀🥤💻
 
-### 💀 Ghouls and the Search for Immortality 🔮
+### 💀 Ghouls and the Search for Immortality 🔮 
 
 Ghouls have always fascinated me. The concept of immortality through ghoulification raises questions about the nature of life and death. As I delve deeper into programming, I seek to unravel the secrets of eternal life through lines of code. 💻🧪🌌
 
@@ -72,6 +77,8 @@ Helios One, a pre-war solar power facility, holds untapped potential. Much like 
 
 🕒 Current Level: 42
 
+---
+
 <p align="center">
-  <img width="200" height="auto" src="https://raw.githubusercontent.com/tristonarmstrong/tristonarmstrong/90193dd0331889b0c1be89b2e6256fac699ad3f5/Volt%20Boy%20Image%20copy.png" alt="GitHub Stats">
+  <img width="auto" height="auto" src="https://github.com/tristonarmstrong/tristonarmstrong/blob/b2a45611db9e4d9478f4bf36998e8647242a3abf/gif%20pixel%20art%20fallout%204.gif" alt="GitHub Stats">
 </p>
