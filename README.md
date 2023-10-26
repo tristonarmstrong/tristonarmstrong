@@ -1,4 +1,6 @@
-![Fallout Banner](https://repository-images.githubusercontent.com/557898281/13553ca7-9def-4565-bee8-961d2d94379b)
+<p align="center">
+  <img width="1000" height="auto" src="https://repository-images.githubusercontent.com/557898281/13553ca7-9def-4565-bee8-961d2d94379b" alt="GitHub Stats">
+</p>
 
 <h1 align="center">🌍 Welcome to the Wasteland, Wanderer! I'm Triston Armstrong</h1>
 
@@ -70,4 +72,6 @@ Helios One, a pre-war solar power facility, holds untapped potential. Much like 
 
 🕒 Current Level: 42
 
-![Vault Boy](#)
+<p align="center">
+  <img width="200" height="auto" src="https://raw.githubusercontent.com/tristonarmstrong/tristonarmstrong/90193dd0331889b0c1be89b2e6256fac699ad3f5/Volt%20Boy%20Image%20copy.png" alt="GitHub Stats">
+</p>
