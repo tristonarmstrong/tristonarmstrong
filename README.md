@@ -1,2 +1,2 @@
 # Welcome to my profile!
-Also find me at [git.klectr.dev](https://git.klectr.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristonarmstrong&layout=compact&theme=dark)
