@@ -1,2 +1,5 @@
-# Welcome to my profile!
+
+<img src="gifpixelartfallout4.gif" alt="banner">
+
+<h1>Welcome to my profile! <img src="VaultBoy.gif" alt="vault boy"></h1>
 Im a full-stack software engineer with 6+ years of experience in TypeScript, Rust, Python, and JavaScript, specializing in scalable web applications, IoT systems, and medical software. Proven ability to modernize legacy codebases, mentor teams, and deliver freelance projects exceeding $40k. Passionate about clean code, efficient architectures, and cross-functional leadership.
