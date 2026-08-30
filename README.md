@@ -19,6 +19,6 @@ When I'm not at a keyboard, I’m likely leaning into my interests in:
 - **Infrastructure:** Linux, CI/CD Automation, Git Standards, IoT Integration.
     
 ### 📫 Get in Touch
-- **Email:** tarmstrong95@proton.me
+- **Email:** triston@hey.com
 - **Professional:** [LinkedIn](https://www.linkedin.com/in/triston-armstrong-7248b229b/) | [Personal Site](https://tristonarmstrong.com)
     
